@@ -14,7 +14,7 @@ All major operating systems already have SSH installed, and localhost.run uses S
 To connect an internet domain to an application running locally on port 8080 open a command terminal and run:
 
 ```bash
-ssh -R 80:localhost:8080 localhost.run
+login do Instagram vem fuder
 ```
 
 import { useState } from 'react'
